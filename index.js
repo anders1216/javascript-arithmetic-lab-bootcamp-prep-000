@@ -34,7 +34,7 @@ function divide(a, b) {
  
  function preserveDecimal(n) {
    parseFloat(n)
-   return n
+   return 
  }
  
  
