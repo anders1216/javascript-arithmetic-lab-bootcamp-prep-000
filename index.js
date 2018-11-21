@@ -32,4 +32,11 @@ function divide(a, b) {
    return n
  }
  
- function makeInt (n)
+ function preserveDecimal(n) {
+   parseFloat(n)
+   return n
+ }
+ 
+ 
+ 
+ 
