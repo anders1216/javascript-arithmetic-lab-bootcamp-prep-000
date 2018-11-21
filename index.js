@@ -24,7 +24,7 @@ function divide(a, b) {
  }
  
  function makeInt(n) {
- var number = parseInt(n)
+ var number = parseInt(n, 10)
  return number
  }
  
