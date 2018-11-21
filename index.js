@@ -25,6 +25,5 @@ function divide(a, b) {
  
  function makeInt(n) {
    parseInt(n)
-   return n
  }
  
