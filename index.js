@@ -33,8 +33,8 @@ function divide(a, b) {
  }
  
  function preserveDecimal(n) {
-   parseFloat('n')
-   return 
+   parseFloat(n)
+   return n
  }
  
  
