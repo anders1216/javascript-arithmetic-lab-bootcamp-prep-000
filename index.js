@@ -19,10 +19,12 @@ function divide(a, b) {
  }
  
  function dec(n) {
-   return n--
+   n--
+   return n
  }
  
  function makeInt(n){
-   return parseInt(n)
+   parseInt(n)
+   return n
  }
  
