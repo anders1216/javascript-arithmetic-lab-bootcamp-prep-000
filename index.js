@@ -33,7 +33,6 @@ function divide(a, b) {
  }
  
  function preserveDecimal(n) {
-   parseInt(n)
    parseFloat(n)
    return n
  }
