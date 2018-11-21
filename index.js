@@ -14,7 +14,8 @@ function divide(a, b) {
   return a / b
 }
  function inc(n) {
-   return n++
+   number = n
+   return number++
  }
  
  function dec(n) {
